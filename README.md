@@ -36,5 +36,10 @@ s the content based on some js code
 
 
 
+## Test
+Test cases are kept in `test` folder. To run the test cases
+
+    $ python3 test/test_crawler.py
+
 
 
