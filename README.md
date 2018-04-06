@@ -6,7 +6,11 @@ Simple implementation of Web Crawler. Fetches the URLs present web pages recursi
 
 ## Requirement
 Python 3.5+
+
+
 [Requests](http://docs.python-requests.org/en/master/)
+
+
 [BeautifulSoap](https://www.crummy.com/software/BeautifulSoup/)
 
 ## Usage
