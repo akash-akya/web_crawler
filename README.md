@@ -2,6 +2,8 @@
 # web_crawler
 Simple implementation of Web Crawler. Fetches the URLs present web pages recursively in a sequential order utill its interrupted with `Ctrl+c` or meets the **maximum limit** provided. Prints the URLs present in the repository at the end.
 
+**Created as a part of interview process**
+
 
 
 ## Requirement
